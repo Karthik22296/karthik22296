@@ -30,5 +30,5 @@ I'm **Karthikeyan P**, a **Software Engineer III** at **LexisNexis** with six ye
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Karthik22296&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----[![](https://visitcount.itsvg.in/api?id=karthik22296&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=karthik22296&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
