@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Karthikeyan P**, a **Software Engineer III** at **LexisNexis** with six years of experience in IT software engineering, specializing in **.NET** and **Angular**. I thrive on creating innovative solutions that drive efficiency and deliver exceptional user experiences.
+I'm **Karthikeyan P**, a **Senior Software Engineer I** at **LexisNexis** with six years of experience in IT software engineering, specializing in **.NET** and **Angular**. I thrive on creating innovative solutions that drive efficiency and deliver exceptional user experiences.
 
 ## 💫 About Me
 🔭 Currently, I’m contributing to the development of a project that leverages large language models (LLMs) alongside Angular and .NET, focusing on prompt engineering for AI.<br>
